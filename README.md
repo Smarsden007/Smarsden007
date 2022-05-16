@@ -9,6 +9,8 @@
 <h5>I am passionate, energetic, and determined to be the best of the best. I am a professional with a can-do attitude and work ethic second to none. I love writing code and being able to utilize my creativity.
 <break>
 
+<h3>We cannot solve our problems with the same thinking we used when we created them. - Albert Einstein
+
 
 
 
@@ -17,11 +19,10 @@
 
 const seanMarsden = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Python, ],
-  tools: [React, Redux, Node, Styled-Components,cypress.io, PostMan, Express, NPM/Yarn, Axios ],
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Styled-Components,cypress.io, PostMan, Express, NPM/Yarn, Axios],
   challenge: "Completing Bloomtech Coding Bootcamp"
 }
 
 ```
 
-test
