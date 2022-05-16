@@ -9,6 +9,10 @@
 <h5>I am passionate, energetic, and determined to be the best of the best. I am a professional with a can-do attitude and work ethic second to none. I love writing code and being able to utilize my creativity.
 <br />
 
+<div>
+I love working with react ⚛️ and building out back end API's. With my free time, I enjoy gardening 🪴 , painting 🎨 and graphic design 🖼️.
+</div>
+
 
 
 &nbsp;
