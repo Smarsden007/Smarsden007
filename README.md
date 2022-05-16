@@ -8,6 +8,10 @@
 
 <h5>I am passionate, energetic, and determined to be the best of the best. I am a professional with a can-do attitude and work ethic second to none. I love writing code and being able to utilize my creativity.
 <br />
+
+
+
+
 <br />
 <h3>We cannot solve our problems with the same thinking we used when we created them. - Albert Einstein
 
