@@ -13,8 +13,10 @@
 &nbsp;
 
 <div>
-I love working with react ⚛️ and building out back end API's. With my free time, I enjoy gardening 🪴 , painting 🎨 and graphic design 🖼️.
+I love working with react ⚛️  With my free time, I enjoy gardening 🪴 , painting 🎨 and graphic design 🖼️.
 </div>
+  <br/>
+  ## I am currently working as a Full Stack Web Developer at Practik Web Design.
 
 
 
