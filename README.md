@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **seannmarsden@gmail.com**
 
-- ⚡ Fun fact **I enjoy painting and going on hikes!**
+- ⚡ Fun fact **I enjoy riding my bike and spending time with my family!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
