@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smarsden007" alt="smarsden007" /></a> </p>
 
-- 🔭 I’m currently working on [Redux Blog](https://soft-snickerdoodle-c81cf6.netlify.app/)
+- 🔭 I’m currently working on [POUNCY PARTIES](https://pouncyparties.com/)
 
-- 🌱 I’m currently learning **SASS, Typescript**
+- 🌱 I’m currently learning **Tailwind.css**
 
 - 💬 Ask me about **React.js**
 
